@@ -1,15 +1,10 @@
 ---
-title: "Brant Research"
+title: "Ramie Research"
 ---
-
-
 
 
 ## [NCDB](NCDB.html)
 
-## [NSQIP](NSQIP.html)
-
-## [Other Projects](Other.html)
 
 
 

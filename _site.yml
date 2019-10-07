@@ -1,16 +1,12 @@
-name: jason-website
+name: ramie-website
 output_dir: '.'
 navbar:
-  title: Brant Research
+  title: Ramie Research
   left:
   - text: Home
     href: index.html
   - text: NCDB
     href: NCDB.html
-  - text: NSQIP
-    href: NSQIP.html
-  - text: Other
-    href: Other.html
 output:
   html_document:
     theme: flatly
