@@ -1,0 +1,51 @@
+---
+title: "Other Projects"
+---
+
+
+##AERD
+
+1. [2019-07-31 AERD](../20190731_AERD.nb.html)
+
+##Becker Pain Project
+
+1. [2017-12-03 Becker Pain Analysis](../20171203_Becker_Pain.nb.html)
+
+2. [2018-03-12 Becker Pain Analysis](../20180312_Becker_Pain.nb.html)
+
+3. [2018-06-18 Becker Pain Analysis](../20180618_multi.nb.html)
+
+4. [2018-06-26 Becker Pain Analysis](../20180626_multi.nb.html)
+
+5. [2018-08-09 Becker Pain Analysis](../20180809_multi.nb.html)
+
+6. [2018-08-14 Becker Pain Analysis](../20180814_multi.nb.html)
+
+7. [2018-08-12 Becker Pain Analysis](../20180822_multi.nb.html)
+
+
+##Chalian Flap Project
+
+1. [2018-10-18 Chalian Flap](../20181018_Flap_RedCap.nb.html)
+
+2. [2018-10-23 Chalian Flap](../20181023_Flap_RedCap.nb.html)
+
+##CI Database
+
+1. [2018-08-23 CI Database Age](../20180823_CI_Age.nb.html)
+
+2. [2018-09-20 CI Database Age](../20180920_CI_Age.nb.html)
+
+##PANQOL
+
+1. [2018-07-16 PANQOL for O&N Paper](../20180711_PANQOL.nb.html)
+
+2. [2018-08-13 PANQOL for O&N Paper](../20180813_PANQOL.nb.html)
+
+3. [2018-08-30 PANQOL for O&N Paper](../20180830_PANQOL.nb.html)
+
+
+##Vestibular for Jim
+
+1. [2018-06-11 Vestibular Data](../201806011_Data.nb.html)
+
